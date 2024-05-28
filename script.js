@@ -43,5 +43,6 @@ window.onscroll = function(){
 
 
 function DownloadResume(){
-    window.open("https://drive.usercontent.google.com/download?id=1xpDQOIyG5K28UCvlFIiDaz6Dbx2nYxvP&export=download&authuser=0", "_blahnk");
+    window.open("https://drive.usercontent.google.com/uc?id=1jQGBOEScC7LkXNjbKL4d2lJ3LgWfBIoF&authuser=0&export=download", "_blahnk");
+    //window.open("https://drive.usercontent.google.com/download?id=1xpDQOIyG5K28UCvlFIiDaz6Dbx2nYxvP&export=download&authuser=0", "_blahnk");
 }
